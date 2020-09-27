@@ -1,2 +1,2 @@
 # build-10-python-beginner-projects
-Using Tkinter Made GUI Application Use in Our Daily Life.
+Using Tkinter Made GUI Application Useing in Our Daily Life.
