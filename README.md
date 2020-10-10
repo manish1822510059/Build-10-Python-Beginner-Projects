@@ -1,4 +1,4 @@
-# build-10-python-beginner-projects
+# Build-10-Python-Beginner-Projects
 Using Tkinter Made GUI Application Useing in Our Daily Life.
 
 <img src="https://img.icons8.com/fluent/96/000000/project-management.png"/>
